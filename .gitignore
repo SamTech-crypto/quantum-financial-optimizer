@@ -1,0 +1,1 @@
+.env pycache/ *.pyc *.pyo *.pyd .Python env/ venv/ *.egg-info/ dist/ build/ *.log
